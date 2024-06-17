@@ -1,0 +1,20 @@
+
+
+              <ul class="d-flex mt-5 list-unstyled gap-4 justify-content-center">
+                <li><a class="b-block text-light" href="">
+                  <i class="fa-brands fa-facebook rounded-circle p-2"></i>
+                </a></li>
+                <li><a class="b-block text-light" href="">
+                  <i class="fa-brands fa-whatsapp rounded-circle p-2"></i>
+                </a></li>
+                <li><a class="b-block text-light" href="">
+                  <i class="fa-brands fa-instagram rounded-circle p-2"></i>
+                </a></li>
+                <li><a class="b-block text-light" href="">
+                  <i class="fa-brands fa-twitter rounded-circle p-2"></i>
+                </a></li>
+                <li><a class="b-block text-light" href="">
+                  <i class="fa-brands fa-linkedin-in rounded-circle p-2"></i>
+                </a></li>
+
+              </ul>
